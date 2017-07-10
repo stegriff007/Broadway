@@ -12,7 +12,7 @@ body{
 }
 
 .footer {
-	background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+	background-color: dimgray;
 	color: white;
 	font-size: 14px;
 	text-align: left;
@@ -44,7 +44,11 @@ em {
 	color: white;
 }
 
-a {
+a.head {
 	font-size: 18px;
+	color: white;
+}
+
+a {
 	color: white;
 }
